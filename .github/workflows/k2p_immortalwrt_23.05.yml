@@ -44,7 +44,7 @@ env:
   UPLOAD_WETRANSFER: false
   UPLOAD_RELEASE: true
   TZ: Asia/Shanghai
-  OPENWRT_TAG: K2P_master
+  OPENWRT_TAG: K2p_master
 jobs:
   build:
     runs-on: ubuntu-22.04

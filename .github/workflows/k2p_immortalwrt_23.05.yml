@@ -238,7 +238,7 @@ jobs:
           ### 📒 Firmware information
           - ⚽ 固件源码: ${{ env.REPO_URL }}
           - 💝 源码分支: ${{ env.REPO_BRANCH }}
-          - 🌐 Default IP: 192.168.2.1
+          - 🌐 Default IP: 10.10.10.254
           - 🔑 Default username: root
           - 🔑 Default password: password
 
